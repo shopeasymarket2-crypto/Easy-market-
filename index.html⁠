@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <title>Easy Market</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Easy Market</h1>
+        <p>সহজ কেনাকাটা, সাশ্রয়ী দামে</p>
+    </header>
+    <div class="container">
+        <h2>আমাদের পণ্যসমূহ</h2>
+        <div id="product-list" class="product-grid"></div>
+    </div>
+    <script src="main.js"></script>
+</body>
+</html>
